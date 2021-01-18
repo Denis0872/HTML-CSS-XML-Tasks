@@ -1,5 +1,5 @@
 ﻿<?xml version = "1.0" encoding = "utf-8" ?>
-<!DOCTYPE TimeTable SYSTEM "lesson2DTD.dtd">
+<!DOCTYPE TimeTable SYSTEM "Lessons-Schema1.dtd">
 
 
 <TimeTable xmlns= "http://www.itmo.ru/xml/lessons">
