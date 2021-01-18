@@ -1,0 +1,47 @@
+﻿<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+  <candidate id = "a">
+    <Name>Вася</Name>
+    <LastName>Васильевич</LastName>
+    <PatronymicName>Пупкин</PatronymicName>
+    <Age>55</Age>
+    <WorkPlace>ООО "газ и мясо"</WorkPlace>
+    <Post>дворник</Post>
+    <DateOfBirth>12.09.1960</DateOfBirth>
+    <Education>3 кл церковно-приходской </Education>
+    <Address>СПб, ул. Ленина 3-5</Address>
+    <Phone>555-55-55</Phone>
+    <FamilyStatus>вдовец</FamilyStatus>
+    <DesiredSalary currency = "RUR">1 000</DesiredSalary>
+  </candidate>
+
+  <candidate id = "b">
+    <Name>Боня</Name>
+    <LastName>Сидоренко</LastName>
+    <PatronymicName>Иванович</PatronymicName>
+    <Age>77</Age>
+    <WorkPlace>ООО "Русский дух"</WorkPlace>
+    <Post>популист</Post>
+    <DateOfBirth>02.03.1948</DateOfBirth>
+    <Education>Наивысшее </Education>
+    <Address>СПб, строителей 13-9</Address>
+    <Phone>6666</Phone>
+    <FamilyStatus>женат</FamilyStatus>
+    <DesiredSalary currency = "RUR">1 000 000</DesiredSalary>
+  </candidate>
+
+  <candidate id = "c">
+    <Name>Дульинея</Name>
+    <LastName>Гашекова</LastName>
+    <PatronymicName>Сергеевна</PatronymicName>
+    <Age>16</Age>
+    <WorkPlace>ООО "Стройсам"</WorkPlace>
+    <Post>манагер</Post>
+    <DateOfBirth>19.12.1996</DateOfBirth>
+    <Education>Среднее</Education>
+    <Address>СПб, рашетова 12-4</Address>
+    <Phone>122-3333</Phone>
+    <FamilyStatus>не замужем</FamilyStatus>
+    <DesiredSalary currency = "RUR">350 000</DesiredSalary>
+  </candidate>
+</resume>

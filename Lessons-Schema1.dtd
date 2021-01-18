@@ -1,0 +1,11 @@
+﻿<!ELEMENT TimeTable (Lessons+)>
+<!ELEMENT Lessons (CourseName, TeacherName,TeacherSurName,Duration,Location,Start,Finish,Listeners,Programm)>
+<!ELEMENT CourseName (#PCDATA)>
+<!ELEMENT TeacherName (#PCDATA)>
+<!ELEMENT TeacherSurName (#PCDATA)>
+<!ELEMENT Duration (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Start (#PCDATA)>
+<!ELEMENT Finish (#PCDATA)>
+<!ELEMENT Listeners (#PCDATA)>
+<!ELEMENT Programm (#PCDATA)>

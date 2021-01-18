@@ -1,0 +1,43 @@
+﻿<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE TimeTable SYSTEM "lesson2DTD.dtd">
+
+
+<TimeTable xmlns= "http://www.itmo.ru/xml/lessons">
+  <Lessons>
+    <course id = "1">
+      <CourseName>Основы технологий разметки</CourseName>
+      <TeacherName>Смольянинов</TeacherName>
+      <TeacherSurName>Александр</TeacherSurName>
+      <Duration>20</Duration>
+      <Location>on-line</Location>
+      <Start>11.01.2021</Start>
+      <Finish>18.01.2021</Finish>
+      <Listeners>14 </Listeners>
+      <Programm>TeamViewer</Programm>
+    </course>
+
+    <course id = "2">
+      <CourseName>Разработка Windows-приложений на C#</CourseName>
+      <TeacherName>Смольянинов</TeacherName>
+      <TeacherSurName>Александр</TeacherSurName>
+      <Duration>40</Duration>
+      <Location>on-line</Location>
+      <Start>19.01.2021</Start>
+      <Finish>05.04.2021</Finish>
+      <Listeners>14 </Listeners>
+      <Programm>TeamViewer</Programm>
+    </course>
+
+    <course id = "3">
+      <CourseName>Разработка Microsoft SQL Server</CourseName>
+      <TeacherName>Ямщиков</TeacherName>
+      <TeacherSurName>Денис</TeacherSurName>
+      <Duration>60</Duration>
+      <Location>on-line</Location>
+      <Start>03.12.2020</Start>
+      <Finish>24.12.2020</Finish>
+      <Listeners>15 </Listeners>
+      <Programm>TeamViewer</Programm>
+    </course>
+  </Lessons>
+</TimeTable>

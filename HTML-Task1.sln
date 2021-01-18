@@ -3,10 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML-Labs", "HTML-Labs", "{2D82195C-A01A-4AB7-8F5A-E50B758EACBF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML-CSS-Labs", "HTML-CSS-Labs", "{2D82195C-A01A-4AB7-8F5A-E50B758EACBF}"
 	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
-		HTMLPage2.html = HTMLPage2.html
+		about_buttoms.html = about_buttoms.html
+		block1.html = block1.html
+		Block2.html = Block2.html
+		classification.html = classification.html
+		code.html = code.html
+		ex1.html = ex1.html
+		ex2.html = ex2.html
+		ex3.html = ex3.html
+		ex4.html = ex4.html
+		ex5.html = ex5.html
+		ex6.html = ex6.html
+		ex7.html = ex7.html
+		findings.html = findings.html
+		Form.html = Form.html
+		gallery.html = gallery.html
+		index.html = index.html
+		Lessons-Schema1.dtd = Lessons-Schema1.dtd
+		Lessons.xml = Lessons.xml
+		map.html = map.html
+		resume.xml = resume.xml
+		Style.css = Style.css
+		Table.html = Table.html
+		TextFormat1.html = TextFormat1.html
+		TextFormat2.html = TextFormat2.html
 	EndProjectSection
 EndProject
 Global
